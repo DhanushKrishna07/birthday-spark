@@ -1,4 +1,4 @@
-# 🎂 BirthdaySpark – A Dynamic Web Experience for Celebrating Special Days 💖
+# 🎂 Birthday-Spark – A Dynamic Web Experience for Celebrating Special Days 💖
 
 **BirthdaySpark** is an interactive, animated birthday celebration website built using HTML, CSS, and JavaScript. It begins with a surprise greeting and guides the user through a multi-layered cake with blowable candles, a tribute gallery showcasing memorable moments, magical wish popups, and festive animations like confetti, floating emojis, and sound effects — delivering a joyful and immersive birthday experience through the browser.
 
@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-You can experience the interactive website live here: [**🎂BirthdaySpark**](https://dhanush-krishna-birthday-spark.vercel.app/)
+You can experience the interactive website live here: [**🎂Birthday-Spark**](https://dhanush-krishna-birthday-spark.vercel.app/)
 
 ---
 
