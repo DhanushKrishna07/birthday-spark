@@ -4,6 +4,12 @@
 
 ---
 
+### 🚀 Live Demo
+
+You can experience the interactive website live here: [**BirthdaySpark**](https://dhanush-krishna-birthday-spark.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 ### 🎂 Interactive Birthday Experience
