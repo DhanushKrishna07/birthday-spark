@@ -1,0 +1,1 @@
+web: gunicorn agri_ai_app:app
